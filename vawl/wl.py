@@ -1,5 +1,6 @@
 """
-An Attempt to use Vosk as Wake Word Listner
+VAWL - Vosk As Wakeword Listener - A simple and powerful Wakeword Listener that requires zero training using Vosk
+Copyright (C) 2025  R Uthaya Murthy
 """
 
 import queue
