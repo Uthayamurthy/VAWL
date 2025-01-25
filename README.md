@@ -2,9 +2,7 @@
 ### A simple and powerful Wakeword Listener that requires zero training using Vosk
 
 ## Demo Video :
-<iframe src="https://drive.google.com/file/d/1gHh2FO-KfbKWZtPlf0vYL6eB71dF67p3/preview" width="640" height="480" allow="autoplay"></iframe> 
-
-### [Or Watch it here](https://drive.google.com/file/d/1gHh2FO-KfbKWZtPlf0vYL6eB71dF67p3/view?usp=sharing)
+### [Watch it here](https://drive.google.com/file/d/1gHh2FO-KfbKWZtPlf0vYL6eB71dF67p3/view?usp=sharing)
 
 ## Introduction
 [Vosk](https://alphacephei.com/vosk/) is an offline speech recognition toolkit created by alphacephei. Though it was popular choice for a STT (speech to text) during its initial release, with emergence of better models like [OpenAI's Whisper](https://openai.com/index/whisper/), it's usage as a STT has significantly declined. However, I noticed that Vosk supports fixed vocabulary inference from [this example](https://github.com/alphacep/vosk-api/blob/master/python/example/test_text.py) in the offcial repo and realised that this feature of Vosk can be used to repurpose it into a powerful wakeword listener !
